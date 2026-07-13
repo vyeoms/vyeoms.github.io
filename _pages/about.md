@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an ELLIS PhD student at Aalto University and the University of Manchester, supervised by [Samuel Kaski](https://mingfeisun.github.io/) (Aalto & Manchester) and co-supervised by [Mingfei Sun](https://mingfeisun.github.io/) (Manchester).
+I am an ELLIS PhD student at Aalto University and the University of Manchester, supervised by [Samuel Kaski](https://kaski-lab.com/) (Aalto & Manchester) and co-supervised by [Mingfei Sun](https://mingfeisun.github.io/) (Manchester).
 
 My current research focuses around the development of methods that exploit structure to solve problems with Flow- and Diffusion-based generative models. Adjacent interests include Robotics, Reinforcement Learning, Differential Equations, and Inductive Biases in ML.
 
